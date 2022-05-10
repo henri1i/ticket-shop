@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "name": "They Have Escaped (He ovat paenneet)",
+        "generes": "Drama",
+        "rating": 9,
+        "price": 13.25,
+        "type": 2
+    },
+    {
+        "id": 2,
+        "name": "On the Line",
+        "generes": "Comedy|Romance",
+        "rating": 2,
+        "price": 13.02,
+        "type": 1
+    },
+    {
+        "id": 3,
+        "name": "Air America",
+        "generes": "Action|Comedy",
+        "rating": 5,
+        "price": 7.55,
+        "type": 2
+    },
+    {
+        "id": 4,
+        "name": "Black Power Mixtape 1967-1975, The",
+        "generes": "Documentary",
+        "rating": 4,
+        "price": 9.04,
+        "type": 1
+    },
+    {
+        "id": 5,
+        "name": "Circus",
+        "generes": "Crime|Drama|Thriller",
+        "rating": 3,
+        "price": 6.12,
+        "type": 2
+    },
+    {
+        "id": 6,
+        "name": "Copper Mountain",
+        "generes": "Comedy|Musical",
+        "rating": 9,
+        "price": 6.15,
+        "type": 2
+    },
+    {
+        "id": 7,
+        "name": "Grandma's Boy",
+        "generes": "Comedy",
+        "rating": 3,
+        "price": 6.15,
+        "type": 1
+    },
+    {
+        "id": 8,
+        "name": "Offence, The",
+        "generes": "Crime|Drama|Mystery",
+        "rating": 1,
+        "price": 8.73,
+        "type": 2
+    },
+    {
+        "id": 9,
+        "name": "Pilgrimage",
+        "generes": "Drama",
+        "rating": 7,
+        "price": 8.88,
+        "type": 1
+    },
+    {
+        "id": 10,
+        "name": "Fatal Attraction",
+        "generes": "Drama|Thriller",
+        "rating": 3,
+        "price": 8.56,
+        "type": 1
+    },
+    {
+        "id": 11,
+        "name": "Broken Vessels",
+        "generes": "Drama",
+        "rating": 6,
+        "price": 10.6,
+        "type": 1
+    },
+    {
+        "id": 12,
+        "name": "What to Expect When You're Expecting",
+        "generes": "Comedy|Drama|Romance",
+        "rating": 2,
+        "price": 13.0,
+        "type": 1
+    },
+    {
+        "id": 13,
+        "name": "Last Days of Pompeii, The",
+        "generes": "Adventure|Drama",
+        "rating": 4,
+        "price": 12.49,
+        "type": 2
+    },
+    {
+        "id": 14,
+        "name": "The Runner from Ravenshead",
+        "generes": "Children",
+        "rating": 2,
+        "price": 9.36,
+        "type": 1
+    },
+    {
+        "id": 15,
+        "name": "Adventures of Robin Hood, The",
+        "generes": "Action|Adventure|Romance",
+        "rating": 7,
+        "price": 5.93,
+        "type": 2
+    },
+    {
+        "id": 16,
+        "name": "Trapped",
+        "generes": "Action|Thriller",
+        "rating": 3,
+        "price": 13.86,
+        "type": 1
+    },
+    {
+        "id": 17,
+        "name": "America 3000",
+        "generes": "Action|Adventure|Sci-Fi",
+        "rating": 4,
+        "price": 11.77,
+        "type": 2
+    },
+    {
+        "id": 18,
+        "name": "Mother Dao, the Turtlelike (Moeder Dao, de schildpadgelijkende)",
+        "generes": "Documentary",
+        "rating": 6,
+        "price": 5.77,
+        "type": 2
+    },
+    {
+        "id": 19,
+        "name": "Christmas in Connecticut",
+        "generes": "Comedy|Romance",
+        "rating": 6,
+        "price": 11.93,
+        "type": 1
+    },
+    {
+        "id": 20,
+        "name": "Carol for Another Christmas",
+        "generes": "Drama|Fantasy|War",
+        "rating": 7,
+        "price": 12.8,
+        "type": 1
+    },
+    {
+        "id": 21,
+        "name": "Corpse Bride",
+        "generes": "Animation|Comedy|Fantasy|Musical|Romance",
+        "rating": 2,
+        "price": 12.76,
+        "type": 1
+    },
+    {
+        "id": 22,
+        "name": "I Don't Want to Talk About It (De eso no se habla)",
+        "generes": "Drama|Romance",
+        "rating": 7,
+        "price": 11.76,
+        "type": 1
+    },
+    {
+        "id": 23,
+        "name": "Body, The",
+        "generes": "Drama|Sci-Fi",
+        "rating": 5,
+        "price": 11.03,
+        "type": 1
+    },
+    {
+        "id": 24,
+        "name": "Notorious",
+        "generes": "Film-Noir|Romance|Thriller",
+        "rating": 9,
+        "price": 10.26,
+        "type": 2
+    },
+    {
+        "id": 25,
+        "name": "Scattered Clouds (Midaregumo)",
+        "generes": "Drama",
+        "rating": 1,
+        "price": 11.36,
+        "type": 2
+    }
+]
